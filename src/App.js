@@ -12,7 +12,7 @@ const App = () => {
         <div className="header-container">
           <p className="header">🖼 GIF Portal</p>
           <p className="sub-text">
-            View your GIF collection in the metaverse ✨
+            View your GIF collection in the metaverse v1 ✨
           </p>
         </div>
         <div className="footer-container">
